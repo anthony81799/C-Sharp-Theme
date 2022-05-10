@@ -9,11 +9,11 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": 
 	{
-		"struct": "#fab854",
+		"struct": "#e26eb6",
 		"plainKeyword": "#00B8F5",
 		"controlKeyword": "#cc94dd",
 		"interface": "#9cc79c",
-		"enum": "#f0c7a7",
+		"enum": "#fab854",
 		"class": "#00C0A0",
 		"namespace": "#CCCCCC",
 		"number": "#d7fabe",
@@ -29,7 +29,8 @@
 		"method": "#ebe9a5",
 		"string": "#dda06d",
 		"preprocessorText": "#DDDDDD",
-		"property": "#DDDDDD"
+		"property": "#DDDDDD",
+		"punctuation": "#DDDDDD"
 	},
 	"tokenColors": [
 	
