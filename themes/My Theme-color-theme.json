@@ -6,7 +6,33 @@
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
+	"semanticHighlighting": true,
+	"semanticTokenColors": 
+	{
+		"struct": "#fab854",
+		"plainKeyword": "#00B8F5",
+		"controlKeyword": "#cc94dd",
+		"interface": "#9cc79c",
+		"enum": "#f0c7a7",
+		"class": "#00C0A0",
+		"namespace": "#CCCCCC",
+		"number": "#d7fabe",
+		"field": "#DDDDDD",
+		"local": "#AAe0fD",
+		"parameter": "#66fDe0",
+		"operator": "#DDDDDD",
+		"enumMember": "#DDDDDD",
+		"comment" : {
+			"foreground": "#008000",
+			"fontStyle": "italic"
+		},
+		"method": "#ebe9a5",
+		"string": "#dda06d",
+		"preprocessorText": "#DDDDDD",
+		"property": "#DDDDDD"
+	},
 	"tokenColors": [
+	
 		{
 			"name": "Comment",
 			"scope": [
@@ -29,6 +55,15 @@
 			}
 		},
 		{
+			"name": "Variables",
+			"scope": [
+				"support.class.name"
+			],
+			"settings": {
+				"foreground": "#db1c1c"
+			}
+		},
+		{
 			"name": "Colors",
 			"scope": [
 				"constant.other.color"
@@ -48,16 +83,16 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
-			"scope": [
+			"name": "Keyword",
+			"scope" : [
 				"keyword",
-				"storage.type",
+				"keyword.other",
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#00B8FF"
+				"foreground": "#00CCFF",
 			}
-		},
+		},	
 		{
 			"name": "Operator, Misc",
 			"scope": [
@@ -156,6 +191,8 @@
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
+				"entity.name.class",
+				"entity.name.type.class",
 				"support.type",
 				"support.class",
 				"support.other.namespace.use.php",
@@ -165,16 +202,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
-			}
-		},
-		{
-			"name": "Support",
-			"scope" : [
-				"entity.name.class"
-			],
-			"settings": {
-				"foreground": "#FF0000"
+				"foreground": "#00CC99"
 			}
 		},
 
