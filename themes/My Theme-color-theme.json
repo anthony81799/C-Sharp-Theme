@@ -169,6 +169,16 @@
 			}
 		},
 		{
+			"name": "Support",
+			"scope" : [
+				"entity.name.class"
+			],
+			"settings": {
+				"foreground": "#FF0000"
+			}
+		},
+
+		{
 			"name": "Entity Types",
 			"scope": [
 				"support.type"
