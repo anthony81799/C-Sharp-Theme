@@ -29,7 +29,7 @@
 		"method": "#fffb93",
 		"string": "#ffbc85",
 		"preprocessorText": "#DDDDDD",
-		"property": "#DDDDDD",
+		"property": "#DDDDFF",
 		"punctuation": "#DDDDDD"
 	},
 	"tokenColors": [
