@@ -9,14 +9,14 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": 
 	{
-		"struct": "#fa9536",
+		"struct": "#FC6B32",
 		"plainKeyword": "#00BBFF",
 		"controlKeyword": "#C164DD",
-		"interface": "#8eb98e",
+		"interface": "#FDF744",
 		"enum": "#ff71e0",
 		"class": "#00CC99",
 		"namespace": "#DDDDDD",
-		"number": "#fa9536",
+		"number": "#FFFFA8",
 		"field": "#7979FF",
 		"local": "#A6E0fD",
 		"parameter": "#66fDe0",
@@ -26,8 +26,8 @@
 			"foreground": "#008000",
 			"fontStyle": "italic"
 		},
-		"method": "#fffb93",
-		"string": "#ffbc85",
+		"method": "#FF9536",
+		"string": "#FFBC85",
 		"preprocessorText": "#DDDDDD",
 		"property": "#BABAFF",
 		"punctuation": "#dddddd"
