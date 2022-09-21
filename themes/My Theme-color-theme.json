@@ -12,16 +12,16 @@
 		"struct": "#fa9536",
 		"plainKeyword": "#00BBFF",
 		"controlKeyword": "#c164dd",
-		"interface": "#37ca37",
-		"enum": "#ff9dea",
+		"interface": "#8eb98e",
+		"enum": "#ff71e0",
 		"class": "#00CC99",
 		"namespace": "#DDDDDD",
 		"number": "#fa9536",
-		"field": "#DFDFDF",
+		"field": "#DDDDDD",
 		"local": "#A6E0fD",
 		"parameter": "#66fDe0",
 		"operator": "#DDDDDD",
-		"enumMember": "#DDDDDD",
+		"enumMember": "#FF9DEA",
 		"comment" : {
 			"foreground": "#008000",
 			"fontStyle": "italic"
@@ -29,8 +29,8 @@
 		"method": "#fffb93",
 		"string": "#ffbc85",
 		"preprocessorText": "#DDDDDD",
-		"property": "#DDDDFF",
-		"punctuation": "#DDDDDD"
+		"property": "#BABAFF",
+		"punctuation": "#dddddd"
 	},
 	"tokenColors": [
 	
