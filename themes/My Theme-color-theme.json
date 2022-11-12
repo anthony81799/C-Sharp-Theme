@@ -18,15 +18,15 @@
 		"namespace": "#DDDDDD",
 		"number": "#fffbad",
 		"field": "#DDDDDD",
-		"local": "#A6E0fD",
-		"parameter": "#66fDe0",
+		"local": "#A6E0FD",
+		"parameter": "#A6FDE0",
 		"operator": "#DDDDDD",
 		"enumMember": "#FF9DEA",
 		"comment" : {
 			"foreground": "#008000",
 			"fontStyle": "italic"
 		},
-		"method": "#fca559",
+		"method": "#fc9a45",
 		"string": "#ffddbf",
 		"preprocessorText": "#DDDDDD",
 		"property": "#BABAFF",
@@ -91,7 +91,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#00CCFF",
+				"foreground": "#00BBFF",
 			}
 		},	
 		{
@@ -135,7 +135,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ebf0ad"
+				"foreground": "#fc9a45"
 			}
 		},
 		{
