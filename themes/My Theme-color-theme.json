@@ -9,28 +9,28 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": 
 	{
-		"struct": "#e26eb6",
-		"plainKeyword": "#00B8F5",
-		"controlKeyword": "#cc94dd",
-		"interface": "#9cc79c",
-		"enum": "#fab854",
-		"class": "#00C0A0",
-		"namespace": "#CCCCCC",
-		"number": "#d7fabe",
+		"struct": "#FC6B32",
+		"plainKeyword": "#00BBFF",
+		"controlKeyword": "#C164DD",
+		"interface": "#FFBC85",
+		"enum": "#ff71e0",
+		"class": "#00CC99",
+		"namespace": "#DDDDDD",
+		"number": "#fffbad",
 		"field": "#DDDDDD",
-		"local": "#AAe0fD",
-		"parameter": "#66fDe0",
+		"local": "#A6E0FD",
+		"parameter": "#A6FDE0",
 		"operator": "#DDDDDD",
-		"enumMember": "#DDDDDD",
+		"enumMember": "#FF9DEA",
 		"comment" : {
 			"foreground": "#008000",
 			"fontStyle": "italic"
 		},
-		"method": "#ebe9a5",
-		"string": "#dda06d",
+		"method": "#fc9a45",
+		"string": "#ffddbf",
 		"preprocessorText": "#DDDDDD",
-		"property": "#DDDDDD",
-		"punctuation": "#DDDDDD"
+		"property": "#BABAFF",
+		"punctuation": "#dddddd",
 	},
 	"tokenColors": [
 	
@@ -52,7 +52,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#66e0fD"
+				"foreground": "#66E0FD"
 			}
 		},
 		{
@@ -91,7 +91,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#00CCFF",
+				"foreground": "#00BBFF",
 			}
 		},	
 		{
@@ -135,7 +135,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ebf0ad"
+				"foreground": "#fc9a45"
 			}
 		},
 		{
@@ -185,7 +185,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#00CC99"
 			}
 		},
 		{
