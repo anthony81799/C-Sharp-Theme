@@ -1,8 +1,13 @@
 {
-    "name": "my-theme",
-    "displayName": "My Theme",
-    "description": "my theme",
+    "name": "c-sharp-theme",
+    "displayName": "C# Theme",
+    "description": "My C# theme",
     "version": "0.0.1",
+    "publisher": "anthony81799",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/anthony81799/C-Sharp-Theme.git"
+    },
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -12,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "My Theme",
+                "label": "C# Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/My Theme-color-theme.json"
+                "path": "./themes/c-sharp-color-theme.json"
             }
         ]
     }

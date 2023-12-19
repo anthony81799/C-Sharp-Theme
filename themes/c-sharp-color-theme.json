@@ -1,5 +1,5 @@
 {
-	"name": "My Theme",
+	"name": "C# Theme",
 	"colors": {
 		"editor.background": "#222222",
 		"editor.foreground": "#eeffff",
@@ -7,8 +7,7 @@
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"semanticHighlighting": true,
-	"semanticTokenColors": 
-	{
+	"semanticTokenColors": {
 		"struct": "#FC6B32",
 		"plainKeyword": "#00BBFF",
 		"controlKeyword": "#C164DD",
@@ -22,7 +21,7 @@
 		"parameter": "#A6FDE0",
 		"operator": "#DDDDDD",
 		"enumMember": "#FF9DEA",
-		"comment" : {
+		"comment": {
 			"foreground": "#008000",
 			"fontStyle": "italic"
 		},
@@ -32,8 +31,8 @@
 		"property": "#BABAFF",
 		"punctuation": "#dddddd",
 	},
-	"tokenColors": [
-	
+	"tokenColors":
+	[
 		{
 			"name": "Comment",
 			"scope": [
@@ -85,7 +84,7 @@
 		},
 		{
 			"name": "Keyword",
-			"scope" : [
+			"scope": [
 				"keyword",
 				"keyword.other",
 				"storage.modifier"
@@ -93,7 +92,7 @@
 			"settings": {
 				"foreground": "#00BBFF",
 			}
-		},	
+		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
@@ -206,7 +205,6 @@
 				"foreground": "#00CC99"
 			}
 		},
-
 		{
 			"name": "Entity Types",
 			"scope": [
