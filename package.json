@@ -2,7 +2,7 @@
     "name": "c-sharp-theme",
     "displayName": "C# Theme",
     "description": "My C# theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "anthony81799",
     "repository": {
         "type": "git",
@@ -20,6 +20,11 @@
                 "label": "C# Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/c-sharp-color-theme.json"
+            },
+            {
+                "label": "C# Theme Modern",
+                "uiTheme": "vs-dark",
+                "path": "./themes/c-sharp-color-theme-modern.json"
             }
         ]
     }
